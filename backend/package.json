@@ -19,7 +19,7 @@
     "yup": "^0.29.3"
   },
   "devDependencies": {
-    "ts-node-dev": "^1.0.0-pre.63"
+    "ts-node-dev": "^1.0.0-pre.65"
   },
   "scripts": {
     "dev": "ts-node-dev --transpile-only --ignore-watch node_modules src/server.ts",
