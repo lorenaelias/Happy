@@ -12,6 +12,7 @@ node_modules/
 /build
 
 # misc
+backend/src/database/database.sqlite
 .DS_Store
 .env
 .env.local
